@@ -2,7 +2,6 @@
 #include <stdlib.h> 
 
 int main(void) {
-    // Student ID: 201578434
     // Declare variables here (C syntax) 
     // All these variables are used later
     int num, number;
